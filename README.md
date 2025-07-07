@@ -183,4 +183,4 @@ Project ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) un
 
 ---
 
-**Made with ❤️ for Indonesian Crypto Community**
+**Made with ❤️ by mhakimsaputra17**
