@@ -54,7 +54,7 @@ public/
 1. Clone repository ini
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mhakimsaputra17/crypto-landing-page.git
 cd crypto-landing-page
 ```
 
